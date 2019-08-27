@@ -44,6 +44,7 @@ const App = () => {
               <Text style={styles.sectionDescription}>
                 Edit <Text style={styles.highlight}>App.js</Text> to change this
                 screen and then come back to see your edits.
+                Tes Doank
               </Text>
             </View>
             <View style={styles.sectionContainer}>
